@@ -1,0 +1,13 @@
+E:/flutter/login_page/login_page/build/windows/runner/Debug/data/icudtl.dat
+E:/flutter/login_page/login_page/build/windows/runner/Debug/flutter_windows.dll
+E:/flutter/login_page/login_page/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+E:/flutter/login_page/login_page/build/windows/runner/Debug/data/flutter_assets/AssetManifest.smcbin
+E:/flutter/login_page/login_page/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+E:/flutter/login_page/login_page/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+E:/flutter/login_page/login_page/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+E:/flutter/login_page/login_page/build/windows/runner/Debug/data/flutter_assets/lib/images/logoIGF.jpg
+E:/flutter/login_page/login_page/build/windows/runner/Debug/data/flutter_assets/lib/images/logo_orizzon.jpg
+E:/flutter/login_page/login_page/build/windows/runner/Debug/data/flutter_assets/NOTICES
+E:/flutter/login_page/login_page/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+E:/flutter/login_page/login_page/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+E:/flutter/login_page/login_page/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
